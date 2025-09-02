@@ -1,2 +1,2 @@
-SIDENYA KEVIN
-MATLAB GROUP H
+# Sidenya Kevin
+Matlab Group H
